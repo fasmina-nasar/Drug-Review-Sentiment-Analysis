@@ -2,10 +2,10 @@
 The main aim of this project is to predict the review of the drug users according to drug name, condition they are suffering from and the rating of the drug.
 
 Steps performed:
-	• Descriptive Statistics
-	• Data Visualization
-	• Data pre-processing and Implementing Sentiment Analysis
-	• Model Building (Random Forest) 
+* Descriptive Statistics
+* Data Visualization
+* Data pre-processing and Implementing Sentiment Analysis
+* Model Building (Random Forest) 
 	
 About Dataset:
 Drug Review Dataset is taken from UCI Machine Learning Repository. This Dataset provides patient reviews on specific drugs along with related conditions.
