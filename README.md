@@ -1,5 +1,5 @@
 # DrugReviewSentimentAnalysis
-The main aim of this project is to predict the review of the drug users according to drug name, condition they are suffering from and the rating of the drug.
+The main aim of this project is to predict the review of the drug according to drug name, condition they are suffering from and the rating of the drug.
 
 Steps performed:
 * Descriptive Statistics
